@@ -1,9 +1,12 @@
-# contaAlura
+# ContaAlura
 
 Exercício do curso de Java: a primeira aplicação de conta.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-F05138?style=flat-square)
+
+> **Contexto.** Exercício de curso, não é projeto próprio. Mantido como registro da trilha
+> de Java.
 
 ## O problema
 
